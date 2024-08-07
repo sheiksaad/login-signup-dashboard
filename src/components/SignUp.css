@@ -1,0 +1,98 @@
+.signup-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    background-color: #f9f9f9;
+    height: 100vh;
+  }
+  
+  .signup-card {
+    /* background-color: #fff; */
+    padding: 50px;
+    border-radius: 8px;
+    /* box-shadow: 0 4px 8px rgba(0,0,0,0.1); */
+    max-width: 400px;
+    width: 100%;
+    margin: 50px;
+  }
+  
+  .signup-card h2 {
+    margin-right: 150px;
+  }
+  
+  .input-group {
+    margin-bottom: 15px;
+  }
+  
+  .input-group label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  .input-group input {
+    width: 100%;
+    padding: 10px;
+    border: 0px solid #ccc;
+    outline: none;
+    border-bottom: black !important;
+    /* border-radius: 4px; */
+  }
+  
+  .checkbox-group {
+    display: flex;
+    align-items: center;
+  }
+  
+  .checkbox-group input {
+    margin-right: 10px;
+  }
+  
+  .checkbox-group label {
+    font-size: 14px;
+  }
+  
+  .checkbox-group a {
+    color: #007BFF;
+    text-decoration: none;
+  }
+  
+  .checkbox-group a:hover {
+    text-decoration: underline;
+  }
+  
+  button {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #0056b3;
+    background-color: #0056b3 !important;
+    color: wheat;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+  }
+  
+  button:hover {
+    background-color: #0056b3;
+  }
+  
+  .login-link {
+    margin-top: 15px;
+    text-align: center;
+    font-size: 14px;
+    color: #007BFF;
+    cursor: pointer;
+  }
+  
+  .illustration {
+    max-width: 400px;
+    width: 100%;
+    margin: 50px;
+    padding: 50px;
+    border-radius: 2px solid white;
+  }
+  
+  .illustration img {
+    width: 100%;
+  }
+  
